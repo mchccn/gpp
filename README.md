@@ -1,2 +1,3 @@
 # gpp
-game programming patterns (@munificent's book)
+
+> game programming patterns (@munificent's book)
